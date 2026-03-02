@@ -1,3 +1,5 @@
+Can this app track tax incentives around the globe, identify the eligibility criteria, and the structural fiscal access constraints?
+
 # r-d_ti_ai
 
 **Skill-definition repository** for the R&D Tax AI agent. This repo stores **.md files** that define the skills (inputs, outputs, behaviour, and tool contracts) used by the agent. The MCP server and tool implementation live in **xero-mcp**.
